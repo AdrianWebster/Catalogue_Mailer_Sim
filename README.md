@@ -1,5 +1,4 @@
 # Catalogue_Mailer_Sim
-Done for a business simulations assignment
 
 Each	quarter	the	manager	of	a	retail	store	divides	customers	in	two	classes	based	on	their	
 purchase	behaviour in	the	previous	quarter.	Denote	classes	as	L	for	low	and	H	for	high.	The	
